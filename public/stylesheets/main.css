@@ -5,9 +5,19 @@ body {
 	font-family:Arial, Helvetica, sans-serif;
 	color:black;
 }
+
 img {
 	border:0;
 }
+
 #main-body {
+	margin: 30px;
+}
+
+.flash-error {
+	margin: 30px;
+}
+
+.flash-notice {
 	margin: 30px;
 }
